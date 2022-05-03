@@ -1,3 +1,7 @@
-Создание нового файла
+First Name - Nataliia
+Last Name - Bezvuhliak
+Age - 46
+Animals - 1
+Salary - 1500
 
 
